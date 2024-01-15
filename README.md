@@ -50,7 +50,49 @@ key: quantity & value: 3
 
 ![create_order](https://github.com/CiprianSimionov/API-Postman/assets/26772192/f312c13d-6a5d-4067-9010-3dbf53ae93a7)
 
+-----------------------------------------------------------------------
 
+*URL - https://simple-books-api.glitch.me*
+
+Method: PATCH
+
+Update an existing order for following properties:
+
+key: customer_name & value: random_user
+
+![update_order](https://github.com/CiprianSimionov/API-Postman/assets/26772192/f9300922-174d-46a8-aff6-86f9cfa94dbb)
+
+-----------------------------------------------------------------------
+
+*URL - https://newsapi.org/*
+
+Method: GET
+
+Searching for news articles with following parameters:
+
+required key: apiKey & value: fa3b507495c648eb9c82b061fbef11d2
+
+key: q & value: quasars
+
+key: sortBy & value: popularity
+
+key: from & value: 2023-12-20
+
+![read_articles](https://github.com/CiprianSimionov/API-Postman/assets/26772192/da430f1c-a978-4b31-8ad3-4c0a344f1e89)
+
+-----------------------------------------------------------------------
+
+*URL - http://qachallenge.ro/api/*
+
+Method: DELETE
+
+Delete existing user by id
+
+key: action & value: delete
+
+key: id & value: 868
+
+![delete](https://github.com/CiprianSimionov/API-Postman/assets/26772192/52c53c28-1b63-4ac2-8f29-9be202bff2b6)
 
 
 
