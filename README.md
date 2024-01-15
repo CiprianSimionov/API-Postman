@@ -14,7 +14,7 @@ key: first_name & value: Ciprian
 
 key: last_name & value: Simionov
 
-![create](https://github.com/CiprianSimionov/API-Postman/assets/26772192/4fe04370-855b-4308-98a6-bf0d08413bdc)
+![create](https://github.com/CiprianSimionov/API-Postman/assets/26772192/eae630dd-bab3-4da2-b29b-b3a0a33c7c1f)
 
 -----------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ Appid: Unique API key identifier
 
 Units - metric(for temperature in Celsius), set by default in Kelvin
 
-![read](https://github.com/CiprianSimionov/API-Postman/assets/26772192/3cf878de-d1f6-49d4-9bba-e48743173f21)
+![read](https://github.com/CiprianSimionov/API-Postman/assets/26772192/7c88550e-11ec-447f-a27a-5ffa044ea023)
 
 -----------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ key: customerName & value: default_user
 
 key: quantity & value: 3
 
-![create_order](https://github.com/CiprianSimionov/API-Postman/assets/26772192/f312c13d-6a5d-4067-9010-3dbf53ae93a7)
+![create_order](https://github.com/CiprianSimionov/API-Postman/assets/26772192/19310d5f-6932-4739-871c-94860ac9c74e)
 
 -----------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ Update an existing order for following properties:
 
 key: customer_name & value: random_user
 
-![update_order](https://github.com/CiprianSimionov/API-Postman/assets/26772192/f9300922-174d-46a8-aff6-86f9cfa94dbb)
+![update_order](https://github.com/CiprianSimionov/API-Postman/assets/26772192/f91350e9-7645-4687-934d-3912db2929cb)
 
 -----------------------------------------------------------------------
 
@@ -78,7 +78,7 @@ key: sortBy & value: popularity
 
 key: from & value: 2023-12-20
 
-![read_articles](https://github.com/CiprianSimionov/API-Postman/assets/26772192/da430f1c-a978-4b31-8ad3-4c0a344f1e89)
+![read_articles](https://github.com/CiprianSimionov/API-Postman/assets/26772192/085c52c5-5600-4617-81e7-60f53a9907ca)
 
 -----------------------------------------------------------------------
 
@@ -92,9 +92,9 @@ key: action & value: delete
 
 key: id & value: 868
 
-![delete](https://github.com/CiprianSimionov/API-Postman/assets/26772192/52c53c28-1b63-4ac2-8f29-9be202bff2b6)
+![delete](https://github.com/CiprianSimionov/API-Postman/assets/26772192/638fdfba-1fc0-4e94-a172-458145497e64)
 
-
+-----------------------------------------------------------------------
 
 
 
